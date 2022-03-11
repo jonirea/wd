@@ -46,6 +46,16 @@ body {
   text-align: center;
 }
 
+.bold-name1{ 
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: uppercase;
+  padding-top: 5px;
+  padding-left: 8px;
+  text-align: center;
+  color: #40628f;
+}
+
 .semi-bold1 {
   font-weight: 450;
   font-size: 17px;
